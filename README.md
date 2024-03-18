@@ -1,3 +1,15 @@
+Curso de Angular: avançando com testes automatizados
+
+Utilizando padrões da W3C, Criação de  aplicando padrões de acessibilidade
+
+Testes de diretivas de maneira escalável
+Uso de fakeAsync
+Módulo HttpClientTestingModule
+Utilização de mock providers em testes de componentes
+Teste a acessibilidade do seu componente
+Uso de Spies
+
+
 # NgTest1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.

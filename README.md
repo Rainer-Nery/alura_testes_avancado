@@ -1,4 +1,4 @@
-Curso de Angular: avançando com testes automatizados
+Curso de Angular: [Avançando com testes automatizados](https://cursos.alura.com.br/course/angular-avancando-testes-automatizados)
 
 Utilizando padrões da W3C, Criação de  aplicando padrões de acessibilidade
 
